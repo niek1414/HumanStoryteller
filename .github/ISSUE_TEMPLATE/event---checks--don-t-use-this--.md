@@ -2,16 +2,14 @@
 name: Event & Checks (Don't use this!)
 about: Please use discord for requests
 title: ''
-labels: Story check, Story event, To analyze
+labels: ''
 assignees: niek1414
 
 ---
 
-Description:
-----
+**Description**
 What it does
 
-Props:
-----
+**Props**
 - one
 - two
