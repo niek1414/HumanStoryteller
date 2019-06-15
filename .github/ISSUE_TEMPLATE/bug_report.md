@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Create a report to help me improve
 title: ''
 labels: bug
 assignees: niek1414
@@ -33,6 +33,7 @@ If applicable, add screenshots to help explain your problem.
 **Platform (please complete the following information):**
  - Browser [e.g. chrome, safari]
  - Rimworld version [e.g. 1.0]
+ - Mod version [e.g. 0.2.3 or update name like 'Clairvoyant']
 
 **Additional context**
 Add any other context about the problem here.
