@@ -20,9 +20,10 @@ If you are a maker it would help a LOT if you created a stripped down version of
 
 **To Reproduce**
 Steps to reproduce the behavior:
+
 1. Load world with '...'
 2. Move pawn to '....'
-4. See error
+3. See error
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
