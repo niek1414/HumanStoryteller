@@ -12,7 +12,7 @@ A clear and concise description of what the bug is.
 
 **Story id**
 In the site editor on the bottom left:
-Story: #1 (After loading you may need to select an event fist)
+Story: #0 (After loading you may need to select an event fist)
 
 In de mod on the bottom right when selecting the story.
 
