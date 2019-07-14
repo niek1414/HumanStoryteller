@@ -14,3 +14,7 @@
 
 * [Integrate with the storybook](storybook-api/integrate-with-the-storybook.md)
 
+## Ignoreme
+
+* [File with all gitbook features for offline use](ignoreme/file-with-all-gitbook-features-for-offline-use.md)
+
