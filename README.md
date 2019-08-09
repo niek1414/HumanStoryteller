@@ -1,3 +1,5 @@
+If you read this on GitHub, the docs are here --> https://storytellerdoc.keyboxsoftware.nl/
+
 ---
 description: 'A Rimworld mod that lets people create, share and play complex stories.'
 ---
