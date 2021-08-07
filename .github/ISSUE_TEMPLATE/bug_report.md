@@ -13,7 +13,7 @@ A clear and concise description of what the bug is.
 **Story id**
 0
 > In the site editor on the bottom left:
-Story: #0 (After loading you may need to select an event fist)
+Story: #0 (After loading you may need to select an event first)
 
 > In de mod on the bottom right when selecting the story.
 
@@ -33,7 +33,7 @@ Story: #0 (After loading you may need to select an event fist)
 
 **Platform (please complete the following information):**
  - Browser: [e.g. chrome, safari]
- - Rimworld: version [e.g. 1.0]
+ - Rimworld: version [e.g. 1.3]
  - Mod version: [e.g. 0.2.3 or update name like 'Clairvoyant']
 
 **Additional context**
